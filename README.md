@@ -8,3 +8,6 @@ You can write .NET apps in C#, F#, or Visual Basic.
 - Visual Basic is an approachable language with a simple syntax for building type-safe, object-oriented apps.
 
 [Learn More](https://dotnet.microsoft.com/en-us/languages)
+
+## [How to install Visual Studio](https://github.com/sukhsukhpinder/SF.Net/blob/master/Samples/HowToInstallVisualStudio.md)
+## [Naming Guidelines](https://github.com/sukhsukhpinder/SF.Net/blob/master/Samples/NamingGuidelines.md)
