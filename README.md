@@ -13,3 +13,4 @@ You can write .NET apps in C#, F#, or Visual Basic.
 ## Getting Started
 - ### [How to install Visual Studio](https://github.com/sukhsukhpinder/SF.Net/blob/master/Samples/HowToInstallVisualStudio.md)
 - ### [Naming Guidelines](https://github.com/sukhsukhpinder/SF.Net/blob/master/Samples/NamingGuidelines.md)
+- ### [Migrate to .Net](https://github.com/sukhsukhpinder/SF.Net/blob/master/Samples/MigrateToDotnet.md)
