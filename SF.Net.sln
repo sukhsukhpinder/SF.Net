@@ -1,0 +1,48 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SF.Net", "SF.Net\SF.Net.csproj", "{C008AB38-697D-40F6-B822-2EA29D2F5905}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Samples", "Samples", "{4D2E97E4-96B2-4A0A-B356-508273D341BB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Images", "Images", "{4B635536-32A1-4E2D-BB60-51B298B7DC81}"
+	ProjectSection(SolutionItems) = preProject
+		..\Images\How To Download And Install Visual Studio03.jpg = ..\Images\How To Download And Install Visual Studio03.jpg
+		..\Images\How To Download And Install Visual Studio04.jpg = ..\Images\How To Download And Install Visual Studio04.jpg
+		..\Images\How To Download And Install Visual Studio07.jpg = ..\Images\How To Download And Install Visual Studio07.jpg
+		..\Images\How To Download And Install Visual Studio08.jpg = ..\Images\How To Download And Install Visual Studio08.jpg
+		..\Images\How To Download And Install Visual Studio10.jpg = ..\Images\How To Download And Install Visual Studio10.jpg
+		..\Images\How To Download And Install Visual Studio13.jpg = ..\Images\How To Download And Install Visual Studio13.jpg
+		..\Images\How To Download And Install Visual Studio14.jpg = ..\Images\How To Download And Install Visual Studio14.jpg
+		..\Images\How To Download And Install Visual Studio18.jpg = ..\Images\How To Download And Install Visual Studio18.jpg
+		..\Images\How To Download And Install Visual Studio19.jpg = ..\Images\How To Download And Install Visual Studio19.jpg
+		..\Images\How To Download And Install Visual Studio20.jpg = ..\Images\How To Download And Install Visual Studio20.jpg
+		..\Images\How To Download And Install Visual Studio2022.jpg = ..\Images\How To Download And Install Visual Studio2022.jpg
+		..\Images\How To Download And Install Visual Studio22.jpg = ..\Images\How To Download And Install Visual Studio22.jpg
+		..\Images\How To Download And Install Visual Studio23.jpg = ..\Images\How To Download And Install Visual Studio23.jpg
+		..\Images\How To Download And Install Visual Studio24.jpg = ..\Images\How To Download And Install Visual Studio24.jpg
+		..\Images\How To Download And Install Visual Studio25.jpg = ..\Images\How To Download And Install Visual Studio25.jpg
+		..\Images\How To Download And Install Visual Studio26.jpg = ..\Images\How To Download And Install Visual Studio26.jpg
+		..\Images\How To Download And Install Visual Studio27.jpg = ..\Images\How To Download And Install Visual Studio27.jpg
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C008AB38-697D-40F6-B822-2EA29D2F5905}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C008AB38-697D-40F6-B822-2EA29D2F5905}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C008AB38-697D-40F6-B822-2EA29D2F5905}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C008AB38-697D-40F6-B822-2EA29D2F5905}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3AEFC7FC-BD09-45B1-AD29-9E994418F567}
+	EndGlobalSection
+EndGlobal
